@@ -20,7 +20,7 @@ model=tf.keras.models.load_model('models/toxicity.h5')
 
 @app.route('/')
 def index():
-    return jsonify({"USER": "This is  backend server for comments toxicity prediction using deep learning  "})
+    return jsonify({"USER": "This is  backend server for comments toxicity prediction using deep learning "})
 
 
 # route  for prediction
