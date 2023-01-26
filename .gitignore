@@ -152,11 +152,9 @@ dmypy.json
 [Ll]ocal
 [Ss]cripts
 pyvenv.cfg
-.coments/
-.venv
+
 pip-selfcheck.json
 
 
-*.csv
 
 # End of https://www.toptal.com/developers/gitignore/api/python
